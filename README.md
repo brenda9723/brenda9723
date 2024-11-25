@@ -1,11 +1,11 @@
 ## Hello Welcome to my profile! 🦋💞👩‍💻
-<hr>
+
 
 <div class="cabecera">
-  <p><img align="right"  width: 300px height: 300px src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+  <p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 </div>
 
-<hr>
+
 
 
 <div id="user-content-toc">
