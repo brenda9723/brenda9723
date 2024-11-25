@@ -1,8 +1,8 @@
 ## Hello Welcome to my profile! 🦋💞👩‍💻
-
+<hr>
 
 <div class="cabecera">
-  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+  <p><img align="right"  width: 300px height: 300px src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 </div>
 
 <hr>
@@ -19,16 +19,4 @@
 </p>
 
 
-<style>
-  .cabecera{
-    width: 300px; 
-    height: 300px;
-    align-items: center;
-    margin: auto;
-    border: 2px solid black; 
-    display: flex;
-    justify-content: center;
-   
-    
-  }
-</style>
+
