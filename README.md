@@ -1,7 +1,7 @@
 <h1 align="center">Hello, Welcome to my profile! 🦋💖👩‍💻</h1>
 
 <p align="center">
-  <img src="[[https://lottie.host/embed/836a1dbd-3d95-4cf0-8395-a97ddd79cc4b/7Sveg2m24m.lottie](https://github.com/brenda9723/assets/blob/76cec1773696675762327408c785d5a746142706/catLaptop.gif)](https://github.com/brenda9723/assets/blob/main/catLaptop.gif?raw=true)" alt="Coding Girl" width="420">
+  <img src="https://github.com/brenda9723/assets/blob/main/catLaptop.gif?raw=true" alt="Coding Girl" width="420">
 </p>
 
 <p align="center">
