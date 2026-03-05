@@ -1,7 +1,7 @@
 <h1 align="center">Hello, Welcome to my profile! 🦋💖👩‍💻</h1>
 
 <p align="center">
-  <img src="https://github.com/brenda9723/assets/blob/main/catLaptop.gif?raw=true" alt="Coding Girl" width="420">
+  <img src="https://github.com/brenda9723/assets/blob/main/catLaptop.gif?raw=true" alt="Coding Girl">
 </p>
 
 <p align="center">
