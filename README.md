@@ -19,7 +19,7 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brenda9723&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brenda9723&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
