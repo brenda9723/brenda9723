@@ -26,7 +26,7 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="TU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/brenda-britez-a3a693159">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
