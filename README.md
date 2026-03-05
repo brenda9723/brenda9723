@@ -1,17 +1,32 @@
-## Hello Welcome to my profile! 🦋💞👩‍💻
+<h1 align="center">Hello, Welcome to my profile! 🦋💖👩‍💻</h1>
 
-<div align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
-</div>
+<p align="center">
+  <img src="https://lottie.host/embed/836a1dbd-3d95-4cf0-8395-a97ddd79cc4b/7Sveg2m24m.lottie" alt="Coding Girl" width="420">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Guzzle-FFCC00?style=for-the-badge&logo=php&logoColor=black" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
+</p>
 
 ---
 
-<div id="user-content-toc" align="center">
-  <h2>Find me on LinkedIn</h2>
-</div>
+### 🛠️ About Me
+- 🔭 I’m currently working on **showSomeMovies** (a TMDB API CLI tool).
+- 🌱 I’m learning advanced API consumption and PHP patterns.
+- 🐈 Cat lover and code enthusiast.
 
+### 📊 My GitHub Stats
 <p align="center">
-  <a href="https://www.linkedin.com/in/brenda-britez-a3a693159/" target="blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brenda9723&show_icons=true&theme=dracula" />
+</p>
+
+---
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="TU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
