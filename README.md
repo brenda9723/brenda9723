@@ -12,11 +12,6 @@
 
 ---
 
-### 🛠️ About Me
-- 🔭 I’m currently working on **showSomeMovies** (a TMDB API CLI tool).
-- 🌱 I’m learning advanced API consumption and PHP patterns.
-- 🐈 Cat lover and code enthusiast.
-
 ### 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brenda9723&theme=radical" alt="GitHub Streak Stats" />
