@@ -13,7 +13,7 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My Progress
 <p align="center">
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67c5139c580201fc77e6f789?variant=dark" alt="roadmap.sh"/></a>
 </p>
